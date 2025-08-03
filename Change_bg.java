@@ -12,7 +12,7 @@ public class Change_bg extends JFrame implements ActionListener {
 
     Change_bg() {
         setSize(500, 500);
-        setLocation(500, 200);
+        setLocation(600, 200);
         setDefaultCloseOperation(3);
         setLayout(null);
 
